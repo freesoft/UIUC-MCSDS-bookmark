@@ -11,13 +11,13 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Towards Data Science : https://towardsdatascience.com
 * Becoming Human : https://becominghuman.ai
 * Andrew Ng's Machine Learning Coursera lectures : https://www.coursera.org/learn/machine-learning/
-* 박수진님의 Andrew Ng's ML course Korean summary and explanation : https://wikidocs.net/book/587 (KR)
+* SunJin Park's prof. Andrew Ng ML course Korean summary and explanation : https://wikidocs.net/book/587 (KR)
 * Gilbert Strang's Linear Algebra : https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 * An Idiot’s guide to Support vector machines (SVMs):  http://web.mit.edu/6.034/wwwbob/svm.pdf
 * Data Science School https://datascienceschool.net (KR)
 * Python Programming : https://pythonprogramming.net
 * Practical Machine Learning Tutorial with Python Introduction : https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
-* Sung Kim's 모두를 위한 딥러닝 season 1 : https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
+* Prof. Sung Kim's Deep Learning for Everybody season 1 : https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm (KR)
 * Prof. David Forsyth's "Probability and Statistics for Computer Science" PDF downloadable through UIUC proxy : https://link-springer-com.proxy2.library.illinois.edu/book/10.1007/978-3-319-64410-3 ( Need UIUC student account to access )
 
 ### Question & Answer you might need
