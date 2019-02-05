@@ -4,7 +4,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
-## UIUC CS498 - Applied Machine Learning
+## UIUC CS498 - Applied Machine Learning related
 
 * UIUC MCS-DS CS498 Applied Machine Learning syllabus : https://courses.engr.illinois.edu/cs498aml/sp2019/
 * Machine Learning 101 : https://medium.com/machine-learning-101
