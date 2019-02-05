@@ -18,6 +18,11 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Python Programming : https://pythonprogramming.net
 * Practical Machine Learning Tutorial with Python Introduction : https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 * Sung Kim's 모두를 위한 딥러닝 season 1 : https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
+* Prof. David Forsyth's "Probability and Statistics for Computer Science" PDF downloadable through UIUC proxy : https://link-springer-com.proxy2.library.illinois.edu/book/10.1007/978-3-319-64410-3 ( Need UIUC student account to access )
+
+### Question & Answer you might need
+
+* How to reverse PCA and reconstruct original variables from several principal components? : https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com
 
 
 ## Math in general 
