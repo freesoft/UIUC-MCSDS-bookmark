@@ -24,6 +24,8 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 * How to reverse PCA and reconstruct original variables from several principal components? : https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com
 
+* How would you explain covariance to someone who understands only the mean? : https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean
+
 
 ## Math in general 
 확률/통계 관련 기본적인 내용들 : https://destrudo.tistory.com (KR)
