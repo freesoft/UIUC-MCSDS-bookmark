@@ -1,4 +1,4 @@
-# bookmark
+# UIUC MCS-DS related bookmark
 
 This repository is to maintain and share all the bookmark that I've been using for my UIUC MCS-DS study. It's English/Korean language mixed, and I'll be adding "(KR)" for those written in Korean for the conveinence.
 
@@ -19,6 +19,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Practical Machine Learning Tutorial with Python Introduction : https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 * Prof. Sung Kim's Deep Learning for Everybody season 1 : https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm (KR)
 * Prof. David Forsyth's "Probability and Statistics for Computer Science" PDF downloadable through UIUC proxy : https://link-springer-com.proxy2.library.illinois.edu/book/10.1007/978-3-319-64410-3 ( Need UIUC student account to access )
+* Principal Component Analysis in Python (from the scratch and with scikit-learn) : https://plot.ly/ipython-notebooks/principal-component-analysis/
 
 ### Question & Answer you might need
 
