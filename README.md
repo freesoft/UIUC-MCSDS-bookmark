@@ -24,11 +24,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Principal Component Analysis in Python (from the scratch and with scikit-learn) : https://plot.ly/ipython-notebooks/principal-component-analysis/
 * Affine transformation : https://www.youtube.com/watch?v=DSmXIYkp024 (KR)
 * Eigenvalue and eigenvector : https://www.youtube.com/watch?v=Nvc7ZRVjciM (KR)
-
-### Question & Answer you might need
-
 * How to reverse PCA and reconstruct original variables from several principal components? : https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com
-
 * How would you explain covariance to someone who understands only the mean? : https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean
 
 
