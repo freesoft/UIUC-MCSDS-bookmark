@@ -30,8 +30,8 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 
 ## Math in general 
-확률/통계 관련 기본적인 내용들 : https://destrudo.tistory.com (KR)
+* 확률/통계 관련 기본적인 내용들 : https://destrudo.tistory.com (KR)
 
 ## Misc
-Make your own internet startup company easily : https://stripe.com/atlas
-Data Science School : https://datascienceschool.net (KR)
+* Make your own internet startup company easily : https://stripe.com/atlas
+* Data Science School : https://datascienceschool.net (KR)
