@@ -34,3 +34,4 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 ## Misc
 Make your own internet startup company easily : https://stripe.com/atlas
+Data Science School : https://datascienceschool.net (KR)
