@@ -7,14 +7,11 @@ This repository is to maintain and share all the bookmark that I've been using f
 ## UIUC CS498 - Applied Machine Learning related
 
 * UIUC MCS-DS CS498 Applied Machine Learning syllabus : https://courses.engr.illinois.edu/cs498aml/sp2019/
-* Machine Learning 101 : https://medium.com/machine-learning-101
-* Towards Data Science : https://towardsdatascience.com
 * Becoming Human : https://becominghuman.ai
 * Andrew Ng's Machine Learning Coursera lectures : https://www.coursera.org/learn/machine-learning/
 * SunJin Park's prof. Andrew Ng ML course Korean summary and explanation : https://wikidocs.net/book/587 (KR)
 * Gilbert Strang's Linear Algebra : https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 * An Idiot’s guide to Support vector machines (SVMs):  http://web.mit.edu/6.034/wwwbob/svm.pdf
-* Data Science School https://datascienceschool.net (KR)
 * Python Programming : https://pythonprogramming.net
 * Practical Machine Learning Tutorial with Python Introduction : https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 * Prof. Sung Kim's Deep Learning for Everybody season 1 : https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm (KR)
@@ -30,9 +27,14 @@ This repository is to maintain and share all the bookmark that I've been using f
 * How would you explain covariance to someone who understands only the mean? : https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean
 
 
-## Math in general 
-* 확률/통계 관련 기본적인 내용들 : https://destrudo.tistory.com (KR)
+## Machine Learning & Data Science & etc in general 
+* 데이터 사이언스 블로그: https://blog.pabii.co/ (KR)
+* Data Science School https://datascienceschool.net (KR)
+* Machine Learning 101 : https://medium.com/machine-learning-101
+* Towards Data Science : https://towardsdatascience.com
+
 
 ## Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
 * Data Science School : https://datascienceschool.net (KR)
+
