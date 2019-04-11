@@ -29,6 +29,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 
 ## Machine Learning & Data Science & etc in general 
+* Dive into Deep Learning : https://d2l.ai/
 * 데이터 사이언스 블로그: https://blog.pabii.co/ (KR)
 * Data Science School https://datascienceschool.net (KR)
 * Machine Learning 101 : https://medium.com/machine-learning-101
