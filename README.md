@@ -34,7 +34,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Data Science School https://datascienceschool.net (KR)
 * Machine Learning 101 : https://medium.com/machine-learning-101
 * Towards Data Science : https://towardsdatascience.com
-
+* Google Seedbank : https://research.google.com/seedbank/
 
 ## Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
