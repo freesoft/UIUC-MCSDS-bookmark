@@ -4,7 +4,11 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
-## UIUC CS498 - Applied Machine Learning related
+## CS 513 - Theory and Practice of Data Cleaning
+
+* Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
+
+## CS 498 - Applied Machine Learning related
 
 * UIUC MCS-DS CS498 Applied Machine Learning syllabus : https://courses.engr.illinois.edu/cs498aml/sp2019/
 * Becoming Human : https://becominghuman.ai
@@ -28,7 +32,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 * How would you explain covariance to someone who understands only the mean? : https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean
 
 
-## Machine Learning & Data Science & etc in general 
+### Machine Learning & Data Science & etc in general 
 * Dive into Deep Learning : https://d2l.ai/
 * 데이터 사이언스 블로그: https://blog.pabii.co/ (KR)
 * Data Science School https://datascienceschool.net (KR)
@@ -36,7 +40,9 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Towards Data Science : https://towardsdatascience.com
 * Google Seedbank : https://research.google.com/seedbank/
 
-## Misc
+### Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
 * Data Science School : https://datascienceschool.net (KR)
+
+
 
