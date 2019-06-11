@@ -12,6 +12,9 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 * Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
 
+## CS 598/STAT 542 - Practical Statistical Learning
+* A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/a
+
 ## STAT 420 - Methods of Applied Statistics 
 
 * Markdown table generator : http://www.tablesgenerator.com/markdown_tables
