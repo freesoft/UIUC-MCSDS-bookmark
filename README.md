@@ -4,6 +4,10 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
+## CS 498 - Data Visualization(2019 summer)
+
+* World Bank Dataset : http://datatopics.worldbank.org/world-development-indicators/
+
 ## CS 513 - Theory and Practice of Data Cleaning
 
 * Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
