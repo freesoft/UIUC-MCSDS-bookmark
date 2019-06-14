@@ -8,6 +8,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 * World Bank Dataset : http://datatopics.worldbank.org/world-development-indicators/
 * Lakner-Milanovic (2013) World Panel Income Distribution (LM-WPID) : http://www.worldbank.org/en/research/brief/World-Panel-Income-Distribution
+* Tableau student account request : https://www.tableau.com/academic/students
 
 ## CS 513 - Theory and Practice of Data Cleaning
 
