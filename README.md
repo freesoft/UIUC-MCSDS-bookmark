@@ -7,6 +7,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 ## CS 498 - Data Visualization(2019 summer)
 
 * World Bank Dataset : http://datatopics.worldbank.org/world-development-indicators/
+* Lakner-Milanovic (2013) World Panel Income Distribution (LM-WPID) : http://www.worldbank.org/en/research/brief/World-Panel-Income-Distribution
 
 ## CS 513 - Theory and Practice of Data Cleaning
 
