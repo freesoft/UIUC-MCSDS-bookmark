@@ -13,6 +13,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 ## CS 513 - Theory and Practice of Data Cleaning
 
 * Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
+* OpenRefine : http://openrefine.org
 
 ## CS 598/STAT 542 - Practical Statistical Learning
 * A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/a
