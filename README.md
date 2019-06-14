@@ -57,6 +57,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 ### Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
 * Data Science School : https://datascienceschool.net (KR)
+* Data Science Interview Guide : https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
 
 
 
