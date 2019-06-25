@@ -65,4 +65,4 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 
 # Contributions
-If you want to contribute to this repo, plese open pull request and I'll merge it once checked.
+If you want to contribute in this repo, plese open pull request and I'll merge it once checked.
