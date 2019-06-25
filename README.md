@@ -64,4 +64,5 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Data Science Interview Guide : https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
 
 
-
+# Contributions
+If you want to contribute to this repo, plese open pull request and I'll merge it once checked.
