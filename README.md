@@ -13,6 +13,7 @@ This repository is to maintain and share all the bookmark that I've been using f
   * Google Cloud Public Datasets : https://cloud.google.com/public-datasets/
   * Kaggle : https://www.kaggle.com/
   * World Bank Open Data : https://data.worldbank.org
+* D3 library : https://d3js.org/
 
 ## CS 513 - Theory and Practice of Data Cleaning
 
