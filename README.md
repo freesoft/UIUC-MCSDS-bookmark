@@ -16,7 +16,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 * D3 library : https://d3js.org/
 * JSFiddle : https://jsfiddle.net (for D3 code quick testing)
 
-## CS 513 - Theory and Practice of Data Cleaning
+## CS 513 - Theory and Practice of Data Cleaning(2019 summer)
 
 * Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
 * OpenRefine : http://openrefine.org
@@ -28,7 +28,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 * Markdown table generator : http://www.tablesgenerator.com/markdown_tables
 
-## CS 498 - Applied Machine Learning related
+## CS 498 - Applied Machine Learning related(2019 spring)
 
 * UIUC MCS-DS CS498 Applied Machine Learning syllabus : https://courses.engr.illinois.edu/cs498aml/sp2019/
 * Becoming Human : https://becominghuman.ai
