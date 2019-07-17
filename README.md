@@ -14,6 +14,7 @@ This repository is to maintain and share all the bookmark that I've been using f
   * Kaggle : https://www.kaggle.com/
   * World Bank Open Data : https://data.worldbank.org
 * D3 library : https://d3js.org/
+* JSFiddle : https://jsfiddle.net (for D3 code quick testing)
 
 ## CS 513 - Theory and Practice of Data Cleaning
 
