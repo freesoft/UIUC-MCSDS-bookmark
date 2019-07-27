@@ -29,6 +29,7 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 ## STAT 420 - Methods of Applied Statistics 
 
+* Textbook, Applied statistics in R : https://daviddalpiaz.github.io/appliedstats/
 * Markdown table generator : http://www.tablesgenerator.com/markdown_tables
 
 ## CS 498 - Applied Machine Learning related(2019 spring)
@@ -68,6 +69,9 @@ This repository is to maintain and share all the bookmark that I've been using f
 * Make your own internet startup company easily : https://stripe.com/atlas
 * Data Science School : https://datascienceschool.net (KR)
 * Data Science Interview Guide : https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
+
+### Math expression library on webpage
+* MathJax : https://www.mathjax.org/
 
 
 # Contributions
