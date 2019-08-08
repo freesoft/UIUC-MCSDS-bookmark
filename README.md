@@ -1,4 +1,4 @@
-# UIUC MCS-DS related bookmark
+# Bookmarks for Online Master of Computer Science in Data Science at University of Illinois at Urbana-Champaign(potentially includes bunch of machine learning stuff)
 
 This repository is to maintain and share all the bookmark that I've been using for my UIUC MCS-DS study. It's English/Korean language mixed, and I'll be adding "(KR)" for those written in Korean for the conveinence.
 
