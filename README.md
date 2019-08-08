@@ -62,6 +62,7 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 
 ### Machine Learning & Data Science & etc in general 
+* Pattern Recognition and Machine Learning : https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book
 * Dive into Deep Learning : https://d2l.ai/
 * 데이터 사이언스 블로그: https://blog.pabii.co/ (KR)
 * Data Science School https://datascienceschool.net (KR)
@@ -76,6 +77,10 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 ### Math expression library on webpage
 * MathJax : https://www.mathjax.org/
+
+
+
+
 
 
 # Contributions
