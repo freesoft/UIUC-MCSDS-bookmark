@@ -4,6 +4,11 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
+## CS 598/STAT 542 - Practical Statistical Learning
+* A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
+* Same as above, but on different location
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
 ## CS 498 - Data Visualization(2019 summer)
 
 * World Bank Dataset : http://datatopics.worldbank.org/world-development-indicators/
@@ -23,11 +28,6 @@ This repository is to maintain and share all the bookmark that I've been using f
 
 * Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
 * OpenRefine : http://openrefine.org
-
-## CS 598/STAT 542 - Practical Statistical Learning
-* A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
-* Same as above, but on different location
-https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ## STAT 420 - Methods of Applied Statistics 
 
