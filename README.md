@@ -25,7 +25,9 @@ This repository is to maintain and share all the bookmark that I've been using f
 * OpenRefine : http://openrefine.org
 
 ## CS 598/STAT 542 - Practical Statistical Learning
-* A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/a
+* A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
+* Same as above, but on different location
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ## STAT 420 - Methods of Applied Statistics 
 
