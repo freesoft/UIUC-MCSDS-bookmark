@@ -8,6 +8,8 @@ This repository is to maintain and share all the bookmark that I've been using f
 * A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 * Same as above, but on different location
 https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+* The Elements of Statistical Learning: Data Mining, Inference and Prediction(textbook): https://web.stanford.edu/~hastie/ElemStatLearn/
+* An Introduction to Statistical Learning with Applications in R(textbook): http://www-bcf.usc.edu/~gareth/ISL/
 
 ## CS 498 - Data Visualization(2019 summer)
 
