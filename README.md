@@ -35,6 +35,7 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 * Textbook, Applied statistics in R : https://daviddalpiaz.github.io/appliedstats/
 * Markdown table generator : http://www.tablesgenerator.com/markdown_tables
+* STAT420 syllabus 2018 : https://daviddalpiaz.github.io/stat400sp18/syllabus.html
 
 ## CS 498 - Applied Machine Learning related(2019 spring)
 
