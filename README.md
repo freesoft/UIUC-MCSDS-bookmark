@@ -2,7 +2,7 @@
 
 This repository is to maintain and share all the bookmark that I've been using for my UIUC MCS-DS study. It's English/Korean language mixed, and I'll be adding "(KR)" for those written in Korean for the conveinence.
 
-The content will be updating until my graduation(expecting sometime in 2020), so fork the current repository rahter than clone if you want to keep up-to-date contents for your program.
+The content will be updated until my graduation(expecting sometime in 2020), so fork the current repository rahter than clone if you want to keep up-to-date contents for your program.
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
