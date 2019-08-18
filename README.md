@@ -67,7 +67,6 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 ### Machine Learning & Data Science & etc in general 
 * Pattern Recognition and Machine Learning : https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book
 * Dive into Deep Learning : https://d2l.ai/
-* 데이터 사이언스 블로그: https://blog.pabii.co/ (KR)
 * Data Science School https://datascienceschool.net (KR)
 * Machine Learning 101 : https://medium.com/machine-learning-101
 * Towards Data Science : https://towardsdatascience.com
@@ -75,7 +74,6 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 ### Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
-* Data Science School : https://datascienceschool.net (KR)
 * Data Science Interview Guide : https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
 
 ### Math expression library on webpage
