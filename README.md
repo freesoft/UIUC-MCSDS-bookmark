@@ -39,6 +39,7 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 ## STAT 420 - Methods of Applied Statistics 
 
+* STAT420 syllabus 2019 Summer: https://cs.illinois.edu/sites/default/files/docs/syllabi/STAT%20420%20Syllabus.pdf
 * Textbook, Applied statistics in R : https://daviddalpiaz.github.io/appliedstats/
 * Markdown table generator : http://www.tablesgenerator.com/markdown_tables
 * STAT420 syllabus 2018 : https://daviddalpiaz.github.io/stat400sp18/syllabus.html
