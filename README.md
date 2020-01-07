@@ -77,15 +77,15 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 * Towards Data Science : https://towardsdatascience.com
 * Google Seedbank : https://research.google.com/seedbank/
 
-### Misc
+## Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
 * Data Science Interview Guide : https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
 
-### Math expression library on webpage
+## Math expression library on webpage
 * MathJax : https://www.mathjax.org/
 
-
-
+## Not class specific, in generate math/stat related
+* statistical engineering : https://statistical-engineering.com
 
 
 
