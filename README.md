@@ -8,7 +8,10 @@ The content will be updated until my graduation(expecting sometime in 2020), so 
 
 ## CS 498 - Cloud Networking (2019 Fall)
 
+* Syllabus: https://cs.illinois.edu/sites/default/files/docs/syllabi/CS498_CN_Syllabus.pdf
 * Beej's Guide to Network Programming: https://beej.us/guide/bgnet/
+* Not mandatory but recommended textbook : "Computer Networks: A Systems Approach". I am pretty sure you can get e-book version of this through UIUC library proxy link but here is Amazon link just in case if you want to buy a physical book : https://amzn.to/37Ov2lW
+
 
 ## CS 598/STAT 542 - Practical Statistical Learning
 * A video lecture for one of the PSL textbook "An Introduction to Statistical Learning with Applications in R", by authors - https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
