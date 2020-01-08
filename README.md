@@ -87,6 +87,10 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 ## Not class specific, in generate math/stat related
 * statistical engineering : https://statistical-engineering.com
 
+### Linear Algebra
+* Prof Gibert Strang's Linear Algebra : https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010
+* Prof Jhevon Smith's Linear Algebra : https://www.youtube.com/watch?list=PLYoxM3oLTvxL_24BB4bc8kHbasgmN1eQl&v=wa4xRnH-nXo
+
 
 
 # Contributions
