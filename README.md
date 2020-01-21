@@ -6,6 +6,12 @@ The content will be updated until my graduation(expecting sometime in 2020), so 
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
+## CS 598 Advanced Bayesian Modeling 
+
+Not directly related though : https://statswithr.github.io/book/
+Probably good for the course prep 1 : https://www.coursera.org/learn/bayesian-statistics
+Probably good for the course prep 2 : https://www.coursera.org/learn/mcmc-bayesian-statistics
+
 ## CS 498 - Cloud Networking (2019 Fall)
 
 * Syllabus: https://cs.illinois.edu/sites/default/files/docs/syllabi/CS498_CN_Syllabus.pdf
