@@ -8,7 +8,7 @@ The content will be updated until my graduation(expecting sometime in 2020), so 
 
 ## CS 598 Advanced Bayesian Modeling 
 
-* Not directly related though : https://statswithr.github.io/book/
+* Not a material for ABM but good enough. It's the book for other Bayesian class on Coursera : https://statswithr.github.io/book/
 * Probably good for the course prep 1 : https://www.coursera.org/learn/bayesian-statistics
 * Probably good for the course prep 2 : https://www.coursera.org/learn/mcmc-bayesian-statistics
 
