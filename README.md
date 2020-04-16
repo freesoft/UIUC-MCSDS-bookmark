@@ -86,6 +86,15 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 * Towards Data Science : https://towardsdatascience.com
 * Google Seedbank : https://research.google.com/seedbank/
 
+## Needs to brush up your algorithms?
+
+* Tim Roughgarden Lectures: https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/
+* Algorithms part 1 - from Princeton Univ on Coursera: https://www.coursera.org/learn/algorithms-part1
+* Algorithms part 2 - from Princeton Univ on Coursera: https://www.coursera.org/learn/algorithms-part2
+* Introduction to Algorithms, 3rd Edition (The MIT Press): https://amzn.to/2VdxHlu (This is one big 1290 page books!!! Know what you are trying to buy or read!)
+* Building Blocks for Theoretical Computer Science by Margaret M. Fleck: http://mfleck.cs.illinois.edu/building-blocks/version-1.3/whole-book.pdf
+* Algorithms by Jeff Erickson: http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
+
 ## Misc
 * Make your own internet startup company easily : https://stripe.com/atlas
 * Data Science Interview Guide : https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
