@@ -92,6 +92,7 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 * Algorithms part 1 - from Princeton Univ on Coursera: https://www.coursera.org/learn/algorithms-part1
 * Algorithms part 2 - from Princeton Univ on Coursera: https://www.coursera.org/learn/algorithms-part2
 * Introduction to Algorithms, 3rd Edition (The MIT Press): https://amzn.to/2VdxHlu (This is one big 1290 page books!!! Know what you are trying to buy or read!)
+* Algorithms Unlocked, MIT press: https://amzn.to/34FnK3w (If above is too much, the lightweight version from one of the author above book)
 * Building Blocks for Theoretical Computer Science by Margaret M. Fleck: http://mfleck.cs.illinois.edu/building-blocks/version-1.3/whole-book.pdf
 * Algorithms by Jeff Erickson: http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
 
