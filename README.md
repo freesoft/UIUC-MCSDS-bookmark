@@ -8,9 +8,12 @@ The content will be updated until my graduation(expecting sometime in 2020), so 
 
 ## CS 598 Advanced Bayesian Modeling 
 
+* Bayesian Data Analysis 3rd edition: https://amzn.to/2XHcuSx ( this is kind of official ABM textbok, also author of the book released this book for free for non-commercial usage in April, 2020 )
+* Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan(The Dog Book): https://amzn.to/2XTg4cH ( maybe you wnat to read this one if BDA3 is too much for you )
 * Not a material for ABM but good enough. It's the book for other Bayesian class on Coursera : https://statswithr.github.io/book/
 * Probably good for the course prep 1 : https://www.coursera.org/learn/bayesian-statistics
 * Probably good for the course prep 2 : https://www.coursera.org/learn/mcmc-bayesian-statistics
+
 
 ## CS 498 - Cloud Networking (2019 Fall)
 
