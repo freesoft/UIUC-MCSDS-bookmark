@@ -6,6 +6,14 @@ The content will be updated until my graduation(expecting sometime in 2020), so 
 
 제가 공부하고 있는 University of Illinois at Urbana-Champaign Online MCS - Data Science 과정 학습중에 참고한 자료들을 링크해 둡니다. 햔글/영어 자료가 섞여있으며 한글자료들은 "(KR)"로 표기해 두었습니다.
 
+## STAT 420 - Methods of Applied Statistics (2020 Summer)
+
+* STAT 420 syllabus(not updated for2020 summer one though): https://cs.illinois.edu/sites/default/files/docs/syllabi/STAT%20420%20Syllabus.pdf
+* Textbook, Applied statistics in R : https://daviddalpiaz.github.io/appliedstats/
+* Markdown table generator : http://www.tablesgenerator.com/markdown_tables
+* STAT 400 syllabus 2018 : https://daviddalpiaz.github.io/stat400sp18/syllabus.html
+
+
 ## CS 598 Advanced Bayesian Modeling 
 
 * Bayesian Data Analysis 3rd edition: https://amzn.to/2XHcuSx ( this is kind of official ABM textbok, also author of the book released this book for free for non-commercial usage in April, 2020 )
@@ -48,13 +56,6 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 * Regexp : https://regexr.com, not mentioned in the video but the other good one http://regex101.com
 * OpenRefine : http://openrefine.org
-
-## STAT 420 - Methods of Applied Statistics 
-
-* STAT420 syllabus 2019 Summer: https://cs.illinois.edu/sites/default/files/docs/syllabi/STAT%20420%20Syllabus.pdf
-* Textbook, Applied statistics in R : https://daviddalpiaz.github.io/appliedstats/
-* Markdown table generator : http://www.tablesgenerator.com/markdown_tables
-* STAT420 syllabus 2018 : https://daviddalpiaz.github.io/stat400sp18/syllabus.html
 
 ## CS 498 - Applied Machine Learning related(2019 spring)
 
